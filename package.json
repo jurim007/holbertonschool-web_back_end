@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "eslint": "^10.8.0",
+    "jest": "^30.4.2"
+  },
+  "name": "holbertonschool-web_back_end",
+  "version": "1.0.0",
+  "description": "This is the JavaScript section * You need to gather 80% of the points from the given tasks to pass",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurim007/holbertonschool-web_back_end.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jurim007/holbertonschool-web_back_end/issues"
+  },
+  "homepage": "https://github.com/jurim007/holbertonschool-web_back_end#readme"
+}
