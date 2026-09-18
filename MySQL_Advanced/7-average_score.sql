@@ -1,3 +1,4 @@
+-- 7-average_score.sql
 DELIMITER $$
 
 CREATE PROCEDURE ComputeAverageScoreForUser(
